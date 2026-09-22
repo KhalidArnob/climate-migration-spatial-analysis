@@ -4,6 +4,9 @@
 ## Project Overview
 This repository contains the quantitative modeling component of a dual-method spatial analysis portfolio. It simulates the erosion of social networks (ego-networks) due to climate shocks in the highly vulnerable coastal upazilas of Satkhira, Bangladesh.
 
+## Spatial Visualization
+![Satkhira Vulnerability Map](satkhira_map.png)
+
 ## Files Included
 * **Python Script/Notebook:** Contains the synthetic baseline data generation and the Logistic Regression model.
 * **satkhira_synthetic_migration_data.csv:** The generated dataset (n=1000) mapping household vulnerability, shock experience, network size, and migration intent.
